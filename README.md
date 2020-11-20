@@ -4,16 +4,19 @@
 >
 > _“Knowledge brings fear” (Mars University Mission Statement)_
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/herrbischoff/awesome-command-line-apps.svg?branch=master)](https://travis-ci.org/herrbischoff/awesome-command-line-apps)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](contributing.md).
 
 
-## Caffeinating
+## Women Empowerment in Zanzibar
 
-When you find something helpful in here, you could buy me a coffee. I spend a lot of time and effort on curating this list. Keeping me properly caffeinated accelerates things. And it would really make my day. Kindness of strangers and all that. If you can't or won't, no hard feelings. It's available completely free for a reason. Still, it would be awesome.
-
-<a href="https://www.buymeacoffee.com/Oi5LPJ4lr" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+Send a little karma down the way and support women empowerment in Zanzibar by
+helping to [fund the local production of reusable female hygiene
+products](https://www.gofundme.com/f/women-empowerment-in-zanzibar). A very
+dear friend of mine runs the project. They were already able to buy hundreds of 
+educational books. Sometimes, it takes so little to make a huge impact.<br>
+If you'd like to thank me or support this work, donate.
 
 
 ## Contents
@@ -88,6 +91,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [awless](https://github.com/wallix/awless) - Mighty command-line interface for Amazon Web Services.
 - [awscli](https://aws.amazon.com/cli/) - Official Amazon AWS command-line interface.
 - [cadaver](http://www.webdav.org/cadaver/) - WebDAV client for Unix.
+- [google-drive-upload](https://github.com/labbots/google-drive-upload) - Upload and sync files to Google Drive.
 
 ### Compression
 
@@ -100,7 +104,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 
 ### Conversion
 
-- [binchunker](http://he.fi/bchunk/) - Converts a CD image in a ".bin / .cue" format (sometimes ".raw / .cue") to a set of .iso and .cdr tracks.
+- [binchunker](http://he.fi/bchunk/) - Converts a CD image in a ".bin/.cue" format (sometimes ".raw/.cue") to a set of .iso and .cdr tracks.
 - [Echo](https://github.com/misterGF/echo) - Convert HTML tables to JSON/CSVs.
 - [Pandoc](http://pandoc.org/) - Universal document converter.
 
@@ -125,6 +129,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [clog](https://github.com/kentcdodds/clog-cli) - Conventional changelog for the rest of us.
 - [Cookiecutter](https://github.com/audreyr/cookiecutter) - Creates projects from cookiecutters (project templates).
 - [Critical](https://github.com/addyosmani/critical) - Extract & inline critical-path CSS in HTML pages.
+- [grex](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
 - [Grunt](http://gruntjs.com) - The JavaScript Task Runner.
 - [gulp](http://gulpjs.com) - Automate and enhance your build workflow.
 - [how2](https://github.com/santinic/how2) - Stack Overflow from the terminal.
@@ -136,6 +141,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [saws](https://github.com/donnemartin/saws) - Supercharged AWS command-line interface.
 - [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts.
 - [sift](https://sift-tool.org) - Fast and powerful open source alternative to grep.
+- [tokei](https://github.com/XAMPPRocky/tokei) - Quickly display statistics about your code like number of files, total lines, comments and blanks, grouped by language.
 - [Yarn](https://yarnpkg.com) - Deterministic, secure alternative to npm.
 
 ### Dotfile Management
@@ -168,6 +174,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 
 ### Filesystem Management
 
+- [dust](https://github.com/bootandy/dust) - More intuitive version of 'du'.
 - [FDUPES](https://github.com/adrianlopezroche/fdupes) - Identify or delete duplicate files residing within specified directories.
 - [Midnight Commander](http://www.midnight-commander.org) - Feature-rich visual file manager.
 - [Ncdu](https://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface.
@@ -184,7 +191,7 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 ### Games
 
 - [Angband](http://rephial.org/) - Free, single-player dungeon exploration game.
-- [Cataclysm: Dark Days Ahead](http://en.cataclysmdda.com/) - Roguelike set in a post-apocalyptic world.
+- [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) - Roguelike set in a post-apocalyptic world.
 - [Curse of War](https://a-nikolaev.github.io/curseofwar/) - Fast-paced real-time action strategy game.
 - [dopewars](http://dopewars.sourceforge.net) - Deal in drugs on the streets of New York, amassing a huge fortune and paying off the loan shark, while avoiding the ever-annoying police.
 - [Frotz](http://frotz.sourceforge.net/) - Interpreter for Infocom games and other Z-machine games.
@@ -236,9 +243,11 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 
 ### Networking
 
+- [bandwhich](https://github.com/imsnif/bandwhich) - Displays current network utilization by process, connection and remote IP or hostname.
 - [Bandwidth Monitor NG](https://www.gropp.org/?id=projects&sub=bwm-ng) - Small and simple live network and disk IO bandwidth monitor.
 - [Blucat](http://blucat.sourceforge.net/blucat/) - netcat for Bluetooth.
 - [gping](https://github.com/orf/gping) - Ping, but with a graph.
+- [httping](https://www.vanheusden.com/httping/) - Like 'ping' but for http requests.
 - [iftop](http://www.ex-parrot.com/pdw/iftop/) - Display bandwidth usage on an interface.
 - [localtunnel](https://github.com/localtunnel/localtunnel) - Exposes your localhost to the world for easy testing and sharing.
 - [mtr](http://www.bitwizard.nl/mtr/) - Combines the functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
@@ -270,14 +279,17 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 
 ### RSS
 
-- [newsbeuter](https://www.newsbeuter.org) - The Mutt of RSS feed readers.
+- [newsbeuter](https://www.newsbeuter.org/) - The Mutt of RSS feed readers.
 - [rss2email](http://www.allthingsrss.com/rss2email/) - Get news from RSS feeds in email.
+- [rsstail](https://www.vanheusden.com/rsstail/) - Monitors a single RSS feed and emits only new entries.
 
 ### Searching
 
 - [fd](https://github.com/sharkdp/fd) - fd is a simple, fast and user-friendly alternative to 'find'.
 - [fselect](https://github.com/jhspetersson/fselect) - 'find' replacement with SQL-like syntax.
+- [fzf](https://github.com/junegunn/fzf) - A general-purpose fuzzy finder.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - Recursively search directories for a regex pattern extremely fast.
+- [sd](https://github.com/chmln/sd) - Intuitive find-and-replace alternative to 'sed'.
 - [The Silver Searcher](http://geoff.greer.fm/ag/) - Blazingly fast tool for searching code.
 
 ### Security
@@ -296,11 +308,13 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 ### System
 
 - [ApacheTop](http://freecode.com/projects/apachetop) - Curses-based top-like display for Apache information, including requests per second, bytes per second, most popular URLs, etc.
+- [bottom](https://github.com/ClementTsang/bottom) - Graphical process/system monitor with a customizable interface and multitude of features.
 - [dstat](http://dag.wiee.rs/home-made/dstat/) - Versatile replacement for vmstat, iostat, netstat and ifstat.
 - [htop](http://hisham.hm/htop/) - Interactive process viewer.
 - [iotop](http://repo.or.cz/iotop.git) - Find out what's stressing and increasing load on your hard disks.
 - [maybe](https://github.com/p-e-w/maybe) - See what a program does before deciding whether you really want it to happen.
 - [netboot.xyz](https://netboot.xyz) - Boot multiple Operating System installers or utilities over the network from a single menu.
+- [procs](https://github.com/dalance/procs) - Modern replacement for 'ps'.
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for desktop screenshots.
 
 ### Terminal
@@ -314,22 +328,24 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 - [cheat](https://github.com/chrisallenlane/cheat) - Create and view interactive cheatsheets.
 - [desk](https://github.com/jamesob/desk) - Lightweight workspace manager for the shell.
 - [dit](https://github.com/vulpino/dit) - Dotfile manager that hooks into Git.
+- [exa](https://github.com/ogham/exa) - Modern version of 'ls'.
 - [Fisher](https://github.com/jorgebucaran/fisher) - Package manager for the fish shell.
 - [fundle](https://github.com/tuvistavie/fundle) - Minimalist package manager for dish shell.
-- [fzf](https://github.com/junegunn/fzf) - A general-purpose fuzzy finder.
 - [Marker](https://github.com/pindexis/marker) - The terminal command palette.
 - [MultiTail](https://www.vanheusden.com/multitail/) - Monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge.
 - [PathPicker](https://facebook.github.io/PathPicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
 - [pick](https://github.com/calleerlandsson/pick) - Fuzzy select anything.
 - [SCREEN](http://www.guckes.net/Screen/) - "Window manager" for the console and terminals.
-- [sd](https://github.com/chmln/sd) - Intuitive find-and-replace alternative to 'sed'.
+- [Starship](https://starship.rs) - Minimal, blazing-fast and infinitely customizable prompt for any shell.
+- [tealdeer](https://github.com/dbrgn/tealdeer) - Very fast implementation of 'tldr'.
 - [tmux](https://tmux.github.io) - Terminal multiplexer.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [z](https://github.com/rupa/z) - Tracks your most used directories, based on "frecency".
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - Similar to 'z' but a standalone binary, therefore shell-independent.
 
 ### Text Editors
 
-- [Diakonos](http://diakonos.pist0s.ca) - Linux editor for the masses.
+- [Diakonos](https://github.com/Pistos/diakonos) - Linux editor for the masses.
 - [Emacs](https://www.gnu.org/software/emacs/) - Extensible, customizable text editor.
 - [Kakoune](http://kakoune.org) - Modal editor with multiple selections and orthogonal design.
 - [Micro](https://github.com/zyedidia/micro) - Modern and intuitive text editor.
